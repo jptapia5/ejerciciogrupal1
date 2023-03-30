@@ -1,4 +1,4 @@
-
+/Calcular el IMC/
 var peso = prompt("Ingrese el Peso", 0)
 var altura = prompt("Ingrese la altura", 0)
 var imc = peso / (altura ** 2);
